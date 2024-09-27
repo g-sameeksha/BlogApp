@@ -11,7 +11,7 @@ from werkzeug.security import check_password_hash,generate_password_hash
 from flask_login import UserMixin,login_user,login_required,logout_user,current_user,LoginManager
 # from flask_gravatar import Gravatar
 from hashlib import md5
-import requests
+
 from dotenv import load_dotenv
 import os
 
