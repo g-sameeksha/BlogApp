@@ -1,2 +1,3 @@
 instance/posts.db
 .venv
+.env
