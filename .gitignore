@@ -1,3 +1,4 @@
 instance/posts.db
 .venv
 .env
+.idea
